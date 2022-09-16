@@ -14,5 +14,5 @@ else if (a < b)
 }
 else if (a == b)
 {
-    Console.WriteLine("a = b");
+    Console.WriteLine("" + a + " = " + b);
 }
